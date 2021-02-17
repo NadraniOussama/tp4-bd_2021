@@ -20,7 +20,7 @@ CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
 /
 ```
 
-  1.	Question2
+1.	Question2
 
 ``` SQL
 
