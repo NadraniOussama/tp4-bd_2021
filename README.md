@@ -4,7 +4,7 @@
 ##Exercice 1 
 
 
-> 1. Question 1
+ 1. Question 1
 
 ``` SQL
 CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
@@ -18,7 +18,7 @@ CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
 /
 ```
 
->  1.	Question2
+  1.	Question2
 
 ``` SQL
 
@@ -34,7 +34,7 @@ CREATE OR REPLACE PROCEDURE p1(d_num NUMBER, d_name OUT dept.dname%type)
 
 Exercice 2 
 
-> 1. Question 1
+ 1. Question 1
 
 ``` SQL
 
@@ -53,7 +53,7 @@ CREATE OR REPLACE PROCEDURE P2
 
 Exercice 2 
 
-> 1. Question 2
+ 1. Question 2
 
 ``` SQL
 
@@ -130,7 +130,7 @@ CREATE OR REPLACE PROCEDURE P4
 
 Exercice 5
 
-> package :
+ > package :
 
 ``` SQL
 
@@ -145,7 +145,7 @@ is
 END;
 /
 ```
-> package body :
+ > package body :
 
 ``` SQL
 
