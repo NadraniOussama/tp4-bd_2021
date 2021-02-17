@@ -4,7 +4,9 @@
 ## Exercice 1 
 
 
- 1. Question 1
+1. Question 1
+
+1. Question 1
 
 ``` SQL
 CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
