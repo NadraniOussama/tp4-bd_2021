@@ -1,7 +1,7 @@
-#TP4 Rapport
+# TP4 Rapport
 
 
-##Exercice 1 
+## Exercice 1 
 
 
  1. Question 1
@@ -32,7 +32,7 @@ CREATE OR REPLACE PROCEDURE p1(d_num NUMBER, d_name OUT dept.dname%type)
 
 ---
 
-Exercice 2 
+## Exercice 2 
 
  1. Question 1
 
@@ -51,7 +51,7 @@ CREATE OR REPLACE PROCEDURE P2
 /	
 ```
 
-Exercice 2 
+## Exercice 2 
 
  1. Question 2
 
@@ -72,7 +72,7 @@ CREATE OR REPLACE FUNCTION F2(num NUMBER)
 /
 ```
 
-Exercice 3
+## Exercice 3
 
 ``` SQL
 
@@ -94,7 +94,7 @@ CREATE OR REPLACE FUNCTION F3(enum NUMBER)
 /	
 ```
 
-Exercice 4
+## Exercice 4
 
 ``` SQL
 CREATE OR REPLACE PROCEDURE P4
@@ -128,7 +128,7 @@ CREATE OR REPLACE PROCEDURE P4
 
 ```
 
-Exercice 5
+## Exercice 5
 
  > package :
 
@@ -238,7 +238,8 @@ END;
 /
 ```
 
-Exercice 6
+## Exercice 6
+
 
 ``` SQL
 
