@@ -4,9 +4,8 @@
 ## Exercice 1 
 
 
-1. Question 1
+#### Question 1
 
-1. Question 1
 
 ``` SQL
 CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
@@ -20,7 +19,7 @@ CREATE OR REPLACE FUNCTION  get_dname (dnum NUMBER )
 /
 ```
 
-1.	Question2
+#### Question 2
 
 ``` SQL
 
@@ -36,7 +35,7 @@ CREATE OR REPLACE PROCEDURE p1(d_num NUMBER, d_name OUT dept.dname%type)
 
 ## Exercice 2 
 
- 1. Question 1
+#### Question 1
 
 ``` SQL
 
@@ -55,7 +54,7 @@ CREATE OR REPLACE PROCEDURE P2
 
 ## Exercice 2 
 
- 1. Question 2
+#### Question 2
 
 ``` SQL
 
